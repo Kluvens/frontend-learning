@@ -56,3 +56,10 @@ Tips:
 - ```<ins>``` - Inserted text
 - ```<sub>``` - Subscript text
 - ```<sup>``` - Superscript text
+
+### HTML quotation and citation
+- ```<blockquote>``` - defines a section that is quoted from another source.
+- ```<q>``` - defines a short quotation which inserts double quotation marks.
+- ```<abbr>``` - defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+- ```<address>``` - defines the contact information for the author/owner of a document or an article.
+- ```<cite>``` - defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
