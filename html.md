@@ -31,3 +31,28 @@ HTML images are defined with the ```<img>``` tag.
 The source file (```src```), alternative text (```alt```), ```width```, and ```height``` are provided as attributes
 
 e.g. ```<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">```
+
+### HTML attributes
+The ```alt``` attribute: The required ```alt``` attribute for the ```<img>``` tag specifies an alternate text for an image, if the image for some reason cannot be displayed.
+e.g. ```<img src="img_typo.jpg" alt="Girl with a jacket">``` this example contains two attributes: ```src``` and ```alt```.
+
+The ```title``` attribute: The ```title``` attribute defines some extra information about an element.
+e.g. ```<p title="I'm a tooltip">This is a paragraph.</p>```
+
+Tips:
+- always use lowercase attributes
+- always quote attribute values
+- double quotes are the most common in HTML
+
+### HTML text formatting
+- ```<b>``` - Bold text
+- ```<strong>``` - Important text
+- ```<i>``` - Italic text
+- ```<em>``` - Emphasized text
+- ```<mark>``` - Marked text
+- ```<small>``` - Smaller text
+- ```<big>``` - Bigger text
+- ```<del>``` - Deleted text
+- ```<ins>``` - Inserted text
+- ```<sub>``` - Subscript text
+- ```<sup>``` - Superscript text
