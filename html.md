@@ -66,3 +66,6 @@ Tips:
 
 ### HTML comments
 ```<!-- Write your comments here -->```
+
+### HTML CSS
+```<link rel="stylesheet" href="styles.css">``` this connects to css file called styles.css
