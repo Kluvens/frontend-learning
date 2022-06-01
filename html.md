@@ -75,3 +75,11 @@ Tips:
 - ```<tr>``` - defines table row
 - ```<th>``` - defines table header
 - ```<td>``` - defines table cell
+
+### HTML list
+- ```<ul>``` - defines an unordered list
+- ```<ol>``` - defines an ordered list
+- ```<li>``` - defines each item
+- ```<dl>``` - defines description list
+- ```<dt>``` - defines the term (name)
+- ```<dd>``` - describes each term
