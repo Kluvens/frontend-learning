@@ -69,3 +69,9 @@ Tips:
 
 ### HTML CSS
 ```<link rel="stylesheet" href="styles.css">``` this connects to css file called styles.css
+
+### HTML table
+- ```<table>``` - defines an HTML table
+- ```<tr>``` - defines table row
+- ```<th>``` - defines table header
+- ```<td>``` - defines table cell
