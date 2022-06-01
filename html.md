@@ -25,6 +25,9 @@ e.g. ```<p>This is a paragraph.</p>```
 HTML links are defined with the ```<a>``` tag
 e.g. ```<a href="https://www.w3schools.com">This is a link</a>```
 
+In the example above, setting the ```target``` attribute to "```_blank```" instructs the browser to open the relevant Wikipedia page in a new window.
+e.g. ```<a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">The Brown Bear</a>```
+
 ### HTML images
 HTML images are defined with the ```<img>``` tag.
 
