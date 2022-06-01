@@ -85,5 +85,5 @@ Tips:
 - ```<dd>``` - describes each term
 
 ### HTML block and inline elements
-- ```<div>``` - defines a division or a section in an HTML document, this is vertical to other text.
-- ```<span>``` - is an inline container used to mark up a part of a text, or a part of a document.
+- ```<div>``` - defines a division or a section in an HTML document, this is vertical to other text. - (block-level)
+- ```<span>``` - is an inline container used to mark up a part of a text, or a part of a document. - (inline)
