@@ -80,6 +80,7 @@ Tips:
 - ```<td>``` - defines table cell
 - ```<tbody>``` - long tables can be sectioned off using the table body element
 - ```<thead>``` - table heading can be sectioned off using the table heading element
+- ```<tfoot>``` - bottom part of a long table can be sectioned off using table foot element
 - ```<td colspan="2">Out of Town</td>``` - spanning(merging) columns
 - ```<td rowspan="2">Work</td>``` - spanning(merging) rows
 
