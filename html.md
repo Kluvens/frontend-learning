@@ -79,6 +79,7 @@ Tips:
 - ```<th>``` - defines table header
 - ```<td>``` - defines table cell
 - ```<tbody>``` - long tables can be sectioned off using the table body element
+- ```<thead>``` - table heading can be sectioned off using the table heading element
 
 ### HTML list
 - ```<ul>``` - defines an unordered list
@@ -87,6 +88,8 @@ Tips:
 - ```<dl>``` - defines description list
 - ```<dt>``` - defines the term (name)
 - ```<dd>``` - describes each term
+- ```<td colspan="2">Out of Town</td>``` - spanning(merging) columns
+- ```<td rowspan="2">Work</td>``` - spanning(merging) rows
 
 ### HTML block and inline elements
 - ```<div>``` - defines a division or a section in an HTML document, this is vertical to other text. - (block-level)
