@@ -78,6 +78,7 @@ Tips:
 - ```<tr>``` - defines table row
 - ```<th>``` - defines table header
 - ```<td>``` - defines table cell
+- ```<tbody>``` - long tables can be sectioned off using the table body element
 
 ### HTML list
 - ```<ul>``` - defines an unordered list
