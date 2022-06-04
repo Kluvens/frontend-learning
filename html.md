@@ -119,3 +119,7 @@ An ```<input>``` element can be displayed in many ways, depending on the ```type
 - ```<input type="submit">``` - displays a submit button (for submitting the form).
 - ```<input type="button">``` - displays a clickable button.
 - The value of ```value``` attribute is paireed with the value of the ```name``` attribute and sent as text when the form is submitted. We can assign a default value for the ```value``` attribute so that users have a pre-filled text field when they first see the rendered form.
+
+The <label> tag defines a label for many form elements. This element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
+  
+An ```<input type ="password">``` element will replace input text with another character like an asterisk (*) or a dot (•).
