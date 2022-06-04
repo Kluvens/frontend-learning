@@ -125,3 +125,5 @@ The <label> tag defines a label for many form elements. This element is useful f
 An ```<input type ="password">``` element will replace input text with another character like an asterisk (*) or a dot (•).
   
 To associate the ```<input>``` with the created ```<label>``` the value of the ```for``` attribute must match the value of the ```id``` of ```<input>```.
+  
+Number input: By setting ```type="number"``` for an ```<input>``` we can restrict what users type into the input field to just numbers. We can also provide a ```step``` attribute which creates arrows inside the input field to increase or decrease by the value of the ```step``` attribute.
