@@ -118,3 +118,4 @@ An ```<input>``` element can be displayed in many ways, depending on the ```type
 - ```<input type="checkbox">``` - displays a checkbox (for selecting zero or more of many choices).
 - ```<input type="submit">``` - displays a submit button (for submitting the form).
 - ```<input type="button">``` - displays a clickable button.
+- The value of ```value``` attribute is paireed with the value of the ```name``` attribute and sent as text when the form is submitted. We can assign a default value for the ```value``` attribute so that users have a pre-filled text field when they first see the rendered form.
