@@ -155,3 +155,7 @@ Another form of list is called datalist(make the input attribute list the same a
   </datalist>
 </form>
 ```
+  
+Extra test: ```<textarea id="extra" name="extra" rows="3" cols="40"> Anything you want to say </textarea>```
+  
+Final submit button: ```<input type="submit" value="Submit">```
