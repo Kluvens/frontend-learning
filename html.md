@@ -123,3 +123,5 @@ An ```<input>``` element can be displayed in many ways, depending on the ```type
 The <label> tag defines a label for many form elements. This element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
   
 An ```<input type ="password">``` element will replace input text with another character like an asterisk (*) or a dot (•).
+  
+To associate the ```<input>``` with the created ```<label>``` the value of the ```for``` attribute must match the value of the ```id``` of ```<input>```.
