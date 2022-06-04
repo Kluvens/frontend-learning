@@ -127,3 +127,14 @@ An ```<input type ="password">``` element will replace input text with another c
 To associate the ```<input>``` with the created ```<label>``` the value of the ```for``` attribute must match the value of the ```id``` of ```<input>```.
   
 Number input: By setting ```type="number"``` for an ```<input>``` we can restrict what users type into the input field to just numbers. We can also provide a ```step``` attribute which creates arrows inside the input field to increase or decrease by the value of the ```step``` attribute.
+  
+Create a drop down list:
+```
+<select id="lunch" name="lunch">
+  <option value="pizza">Pizza</option>
+  <option value="curry">Curry</option>
+  <option value="salad">Salad</option>
+  <option value="ramen">Ramen</option>
+  <option value="tacos">Tacos</option>
+</select>
+```
