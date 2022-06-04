@@ -110,3 +110,11 @@ A class name can be used by multiple HTML elements, while an id name must only b
 </form>
 ```
 An HTML ```form``` is used to collect user input. The user input is most often sent to a server for processing. The ```action``` attribute determines where the information is sent. The ```method``` attribute is assigned a HTTP verb that is included in the HTTP request.
+
+The HTML ```<input>``` element is the most used form element.
+An ```<input>``` element can be displayed in many ways, depending on the ```type``` attribute.
+- ```<input type="text">``` - displays a single-line text input field.
+- ```<input type="radio">``` - displays a radio button (for selecting one of many choices).
+- ```<input type="checkbox">``` - displays a checkbox (for selecting zero or more of many choices).
+- ```<input type="submit">``` - displays a submit button (for submitting the form).
+- ```<input type="button">``` - displays a clickable button.
