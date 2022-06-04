@@ -104,3 +104,9 @@ You cannot have more than one element with the same id in an HTML document.
 **difference between class and id:**
 A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page
 
+### HTML forms
+```
+<form action="/example.html" method="POST">
+</form>
+```
+An HTML ```form``` is used to collect user input. The user input is most often sent to a server for processing. The ```action``` attribute determines where the information is sent. The ```method``` attribute is assigned a HTTP verb that is included in the HTTP request.
