@@ -138,3 +138,20 @@ Create a drop down list:
   <option value="tacos">Tacos</option>
 </select>
 ```
+  
+Another form of list is called datalist(make the input attribute list the same as id of datalist):
+```
+<form>
+  <label for="city">Ideal city to visit?</label>
+  <input type="text" list="cities" id="city" name="city">
+ 
+  <datalist id="cities">
+    <option value="New York City"></option>
+    <option value="Tokyo"></option>
+    <option value="Barcelona"></option>
+    <option value="Mexico City"></option>
+    <option value="Melbourne"></option>
+    <option value="Other"></option>  
+  </datalist>
+</form>
+```
